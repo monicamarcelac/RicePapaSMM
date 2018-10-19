@@ -1,0 +1,117 @@
+[
+    {
+        "date": "1996-01-01",
+        "RicePriceLib": 272.799999237061,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "1997-01-01",
+        "RicePriceLib": 336.588549296061,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "1998-01-01",
+        "RicePriceLib": 402.861523946126,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "1999-01-01",
+        "RicePriceLib": 387.241984049479,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2000-01-01",
+        "RicePriceLib": 383.596186319987,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2001-01-01",
+        "RicePriceLib": 441.061223347982,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2002-01-01",
+        "RicePriceLib": 444.527854919434,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2003-01-01",
+        "RicePriceLib": 505.450485229492,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2004-01-01",
+        "RicePriceLib": 516.839762369792,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2005-01-01",
+        "RicePriceLib": 503.223203023275,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2006-01-01",
+        "RicePriceLib": 550.070594787598,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2007-01-01",
+        "RicePriceLib": 599.579706827799,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2008-01-01",
+        "RicePriceLib": 859.923690795898,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2009-01-01",
+        "RicePriceLib": 814.152521769206,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2010-01-01",
+        "RicePriceLib": 785.349843343099,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2011-01-01",
+        "RicePriceLib": 890.870402018229,
+        "PapaPriceLb": null
+    },
+    {
+        "date": "2012-01-01",
+        "RicePriceLib": 1011.08182271322,
+        "PapaPriceLb": 140.836289995076
+    },
+    {
+        "date": "2013-01-01",
+        "RicePriceLib": 879.456873575846,
+        "PapaPriceLb": 206.242866848567
+    },
+    {
+        "date": "2014-01-01",
+        "RicePriceLib": 855.310317993164,
+        "PapaPriceLb": 285.85860175808
+    },
+    {
+        "date": "2015-01-01",
+        "RicePriceLib": 1186.9719136556,
+        "PapaPriceLb": 317.210645236098
+    },
+    {
+        "date": "2016-01-01",
+        "RicePriceLib": 1146.13182576497,
+        "PapaPriceLb": 395.239079813991
+    },
+    {
+        "date": "2017-01-01",
+        "RicePriceLib": 913.036748250326,
+        "PapaPriceLb": 242.286564058831
+    },
+    {
+        "date": "2018-01-01",
+        "RicePriceLib": 861.800262451172,
+        "PapaPriceLb": 319.474021401413
+    }
+]
