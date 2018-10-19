@@ -1,0 +1,117 @@
+[
+    {
+        "RicePriceKg": 601.524002075195,
+        "PapaPriceKg": 0,
+        "date": "1996-01-01"
+    },
+    {
+        "RicePriceKg": 742.177749633789,
+        "PapaPriceKg": 0,
+        "date": "1997-01-01"
+    },
+    {
+        "RicePriceKg": 888.309666951497,
+        "PapaPriceKg": 0,
+        "date": "1998-01-01"
+    },
+    {
+        "RicePriceKg": 853.868586222331,
+        "PapaPriceKg": 0,
+        "date": "1999-01-01"
+    },
+    {
+        "RicePriceKg": 845.82958984375,
+        "PapaPriceKg": 0,
+        "date": "2000-01-01"
+    },
+    {
+        "RicePriceKg": 972.539993286133,
+        "PapaPriceKg": 0,
+        "date": "2001-01-01"
+    },
+    {
+        "RicePriceKg": 980.183924357096,
+        "PapaPriceKg": 0,
+        "date": "2002-01-01"
+    },
+    {
+        "RicePriceKg": 1114.51834106445,
+        "PapaPriceKg": 0,
+        "date": "2003-01-01"
+    },
+    {
+        "RicePriceKg": 1139.63168334961,
+        "PapaPriceKg": 0,
+        "date": "2004-01-01"
+    },
+    {
+        "RicePriceKg": 1109.60715738932,
+        "PapaPriceKg": 0,
+        "date": "2005-01-01"
+    },
+    {
+        "RicePriceKg": 1212.90567016602,
+        "PapaPriceKg": 0,
+        "date": "2006-01-01"
+    },
+    {
+        "RicePriceKg": 1322.0732421875,
+        "PapaPriceKg": 0,
+        "date": "2007-01-01"
+    },
+    {
+        "RicePriceKg": 1896.13173421224,
+        "PapaPriceKg": 0,
+        "date": "2008-01-01"
+    },
+    {
+        "RicePriceKg": 1795.2063293457,
+        "PapaPriceKg": 0,
+        "date": "2009-01-01"
+    },
+    {
+        "RicePriceKg": 1731.69643147786,
+        "PapaPriceKg": 0,
+        "date": "2010-01-01"
+    },
+    {
+        "RicePriceKg": 1964.36926269531,
+        "PapaPriceKg": 0,
+        "date": "2011-01-01"
+    },
+    {
+        "RicePriceKg": 2229.43539428711,
+        "PapaPriceKg": 310.490502793296,
+        "date": "2012-01-01"
+    },
+    {
+        "RicePriceKg": 1939.20241292318,
+        "PapaPriceKg": 454.687150837989,
+        "date": "2013-01-01"
+    },
+    {
+        "RicePriceKg": 1885.9592590332,
+        "PapaPriceKg": 630.209593326382,
+        "date": "2014-01-01"
+    },
+    {
+        "RicePriceKg": 2617.27307128906,
+        "PapaPriceKg": 699.328934010152,
+        "date": "2015-01-01"
+    },
+    {
+        "RicePriceKg": 2527.22064208984,
+        "PapaPriceKg": 871.351983723296,
+        "date": "2016-01-01"
+    },
+    {
+        "RicePriceKg": 2013.24599202474,
+        "PapaPriceKg": 534.149805447471,
+        "date": "2017-01-01"
+    },
+    {
+        "RicePriceKg": 1900.26960449219,
+        "PapaPriceKg": 704.318818040435,
+        "date": "2018-01-01"
+    }
+]
