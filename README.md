@@ -1,6 +1,7 @@
 # RicePapaSMM
 Comparación entre los precios de la papa y el arroz con el salario mínimo mensual
 
+* Visualización: https://beta.observablehq.com/@monicamarcelac/con-un-salario-minimo-hoy-puede-comprar-menos-papa-y-mas-arro
 * Moneda: COP
 
 ## Fuentes, codigos utilizados y demás..
