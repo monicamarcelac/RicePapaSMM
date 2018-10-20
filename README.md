@@ -1,7 +1,7 @@
 # RicePapaSMM
 Comparación entre los precios de la papa y el arroz con el salario mínimo mensual
 
-- Moneda: COP
+* Moneda: COP
 
 ## Fuentes, codigos utilizados y demás..
 
@@ -15,21 +15,21 @@ Comparación entre los precios de la papa y el arroz con el salario mínimo mens
 
 ### Arroz:
 
-Tipo de arros: Blanco
-Fuente: http://www.fedearroz.com.co/new/precios.php
-Arroz que más se consume: http://www.elcolombiano.com/tendencias/arroz-variedades-e-historia-GF7171769
-Info: Precio Promedio Mensual Arroz Blanco en Colombia
+- Tipo de arros: Blanco
+- Fuente: http://www.fedearroz.com.co/new/precios.php
+- Arroz que más se consume: http://www.elcolombiano.com/tendencias/arroz-variedades-e-historia-GF7171769
+- Info: Precio Promedio Mensual Arroz Blanco en Colombia
 
 ### Papa:
 
-Variedades:[Variedad] = "Parda Pastusa" OR
+- Variedades:[Variedad] = "Parda Pastusa" OR
 [Variedad] = "Superior" OR
 [Variedad] = "Pastusa Suprema" OR
 Contains([Variedad], "Diacol") OR
 Contains([Variedad], "Única")
-Fuente: http://fedepapa.com/ano-de-boletin-cundinamarca/
-Consumo papa: http://www.fedepapa.com/wp-content/uploads/2017/01/REVISTA-43-OK.pdf
+- Fuente: http://fedepapa.com/ano-de-boletin-cundinamarca/
+- Consumo papa: http://www.fedepapa.com/wp-content/uploads/2017/01/REVISTA-43-OK.pdf
 
 ### Salario mínimo:
 
-Fuente:  Banco de la República - Salario mínimo legal en Colombia
+- Fuente:  Banco de la República - Salario mínimo legal en Colombia
