@@ -1,17 +1,17 @@
 # RicePapaSMM
 Comparación entre los precios de la papa y el arroz con el salario mínimo mensual
 
-Moneda: COP
+- Moneda: COP
 
 ## Fuentes, codigos utilizados y demás..
 
 
 ### D3 - Vega
 
-https://beta.observablehq.com/@greenafrican/grouped-bar-chart
-https://vega.github.io/vega-lite/docs/tooltip.html
-https://vega.github.io/vega/docs/schemes/
-https://beta.observablehq.com/@greenafrican/grouped-bar-chart
+- https://beta.observablehq.com/@greenafrican/grouped-bar-chart
+- https://vega.github.io/vega-lite/docs/tooltip.html
+- https://vega.github.io/vega/docs/schemes/
+- https://beta.observablehq.com/@greenafrican/grouped-bar-chart
 
 ### Arroz:
 
